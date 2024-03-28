@@ -3,6 +3,16 @@
     padding: 0;
     box-sizing: border-box;
 }
+/* Kembali */
+.kembali-home{
+  margin-top: -33%;
+}
+
+.kembali-home a{
+  width: 40px;
+  height: 40px;
+  font-size: 50px;
+}
 
 /* Style the navbar */
 .navbar {
